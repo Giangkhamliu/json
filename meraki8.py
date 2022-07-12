@@ -29,3 +29,6 @@ print(dic)
 import json
 with open("meraki8.json","w") as f:
     json.dump(dic,f,indent=6)
+
+
+
